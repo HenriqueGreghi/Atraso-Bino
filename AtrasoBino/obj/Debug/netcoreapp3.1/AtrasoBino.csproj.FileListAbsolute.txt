@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\bin\Debug\netcoreapp3.1\AtrasoBino.exe
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\bin\Debug\netcoreapp3.1\AtrasoBino.deps.json
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\bin\Debug\netcoreapp3.1\AtrasoBino.runtimeconfig.json
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\bin\Debug\netcoreapp3.1\AtrasoBino.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\bin\Debug\netcoreapp3.1\AtrasoBino.dll
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\bin\Debug\netcoreapp3.1\AtrasoBino.pdb
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.AssemblyInfo.cs
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.dll
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.pdb
+C:\Users\017557631\source\repos\AtrasoBino\AtrasoBino\obj\Debug\netcoreapp3.1\AtrasoBino.genruntimeconfig.cache
