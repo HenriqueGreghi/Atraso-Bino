@@ -13,8 +13,8 @@ namespace AtrasoBino
             int minuto = int.Parse(valores[1]);
 
             Calculo calc = new Calculo(hora, minuto);
-
-            Console.WriteLine(calc.Atraso());
+            calc.Atraso();
+            Console.WriteLine(calc.ToString());
         }
     }
 }

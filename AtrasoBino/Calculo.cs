@@ -6,28 +6,36 @@ namespace AtrasoBino
 {
     class Calculo
     {
-        public int Hora { get; set; }
-        public int Minuto { get; set; }
+        private int Hora { get; set; }
+        private int Minuto { get; set; }
+        private string TempoAtraso { get; set; }
 
         public Calculo(int hora, int minuto)
         {
             Hora = hora;
             Minuto = minuto;
         }
-        public string Atraso()
+
+        public void Atraso()
         {
             if (Hora < 7)
             {
-                return "Não se atrasou = 00:00";
+               TempoAtraso = "Não se atrasou = 00:00";
             }
             else if (Hora == 7)
             {
-                return "Se atrasou = 00:" + Minuto;
+                TempoAtraso = "Se atrasou = 00:" + Minuto;
             }
             else
             {
-                return "Se atrasou = " + (Hora - 7 + 1) + ":" + Minuto;
+                TempoAtraso = "Se atrasou = " + (Hora - 7 + 1) + ":" + Minuto;
             }
+
+            
+        }
+        public override string ToString()
+        {
+            return base.ToString()+ TempoAtraso;
         }
     }
 }
