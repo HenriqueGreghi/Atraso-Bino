@@ -4,13 +4,13 @@ using System.Text;
 
 namespace AtrasoBino
 {
-    class Calculo
+    class CalculoAtraso
     {
         private int Hora { get; set; }
         private int Minuto { get; set; }
         private string TempoAtraso { get; set; }
 
-        public Calculo(int hora, int minuto)
+        public CalculoAtraso(int hora, int minuto)
         {
             Hora = hora;
             Minuto = minuto;

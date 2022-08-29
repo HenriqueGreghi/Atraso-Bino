@@ -12,9 +12,9 @@ namespace AtrasoBino
             int hora = int.Parse(valores[0]);
             int minuto = int.Parse(valores[1]);
 
-            Calculo calc = new Calculo(hora, minuto);
-            calc.Atraso();
-            Console.WriteLine(calc.ToString());
+            CalculoAtraso atrasoBino = new CalculoAtraso(hora, minuto);
+            atrasoBino.Atraso();
+            Console.WriteLine(atrasoBino.ToString());
         }
     }
 }
